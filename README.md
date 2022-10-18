@@ -1,6 +1,5 @@
 # 9HIWA ☕ 
 ## ☕ Responsive Coffee Website
-### ☕ Responsive Coffee Website
 
 - Responsive Coffee Website Using HTML CSS & JavaScript
 - Smooth scrolling in each section.
