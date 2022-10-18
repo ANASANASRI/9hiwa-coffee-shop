@@ -1,11 +1,9 @@
-  =>  Template Name    : KOPPEE - Coffee Shop HTML Template
+#9HIWA ☕
+## ☕ Responsive Coffee Website
+### ☕ Responsive Coffee Website
 
-  =>  Template Link    : https://htmlcodex.com/coffee-shop-html-template
+- Responsive Coffee Website Using HTML CSS & JavaScript
+- Smooth scrolling in each section.
+- Developed first with the Mobile First methodology, then for desktop.
+- Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
-
-  =>  Template Author  : HTML Codex
-
-  =>  Author Website   : https://htmlcodex.com
-
-  =>  About HTML Codex : HTML Codex is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://htmlcodex.com/about-us )
